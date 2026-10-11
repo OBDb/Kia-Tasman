@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Kia_Tasman"
+
+generations:
+  - name: "First Generation (TK)"
+    start_year: 2025
+    end_year: null
+    description: "A body-on-frame pickup with the 2.5 L turbo gasoline and 2.2 L diesel engines."
